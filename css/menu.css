@@ -94,7 +94,42 @@ header {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+
+
+    background-color: black;
+    display: flex;
+    justify-content: center;
+
+    padding: auto;
+
 }
+
+
+
+div h1{
+
+    color: white;
+}
+
+nav a{
+
+    color: white;
+}
+
+
+
+
+nav {
+
+    display: flex;
+    
+    justify-content: space-between;
+
+    color: white;
+
+}
+
+
 
 /* spacer */
 .spacer {
@@ -120,13 +155,81 @@ header {
     background-repeat: no-repeat;
 }
 
+
+ h2 {
+
+    color: white;
+
+    /* justify-content: center; */
+    text-align: center;
+ }
+
+
+
+.row {
+    display: flex;
+
+    flex-direction: row-reverse;
+    flex-wrap: wrap-reverse ;
+    flex-flow: column;
+    
+    justify-content:space-around ;
+    text-align: ;
+    align-items: ;
+    align-content: space-around;
+
+
+    color: white;
+}
+
+
+
 /* footer section */
 footer {
     width: 100%;
     height: 15vh;
     padding-top: 2.5vh;
     font-size: 3rem;
+
+
+    justify-content: center;
+
+    /* padding: auto; */
+    /* display: flex; */
+    background-color:black;
+    align-self: stretch;
+   
 }
+
+
+
+
+a {
+    color: white;
+    background-color: black;
+    
+    /* justify-content: center;
+    background-size: cover;
+    background-repeat: no-repeat; */
+
+
+
+}
+
+
+div p {
+
+    display: flex;
+
+    background-color: black;
+    color: antiquewhite;
+   flex-direction: row-reverse;
+
+}
+
+
+
+
 
 /* mobile media query */
 @media (max-width: 428px) {
