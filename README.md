@@ -28,6 +28,7 @@ In meeting the minimum viable product (MVP) specifications listed below, your we
 
 [Click here for the menu page example](https://i.ibb.co/NxLyLCH/menu-desktop.png)
 
+
 [Click here for menu page mobile example](https://i.ibb.co/Wsc2vpz/menu-mobile.png)
 
 
@@ -73,6 +74,7 @@ Review the provided design file for the home page.
 * [ ] Link the h1 page title to the [index.html](index.html) page.
 * [ ] Link the `Menu` navigation item to the [menu.html](menu.html) page.
 * [ ] Create social media buttons on header for Facebook, Twitter, and Instagram with icons from [FontAwesome](https://fontawesome.com/search). *NOTE: * ENSURE that the icon name includes "facebook", "twitter", or "instagram" respectively.
+
 * [ ] Build the rest of the home page layout to match the design. Much of it has already been implemented; you should only need to fix the header, footer, and gallery portions.
 ​
 Colors and fonts:
